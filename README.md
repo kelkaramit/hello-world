@@ -2,3 +2,5 @@
 Practice.
 Commit.
 Test.
+Explore
+Enjoy
